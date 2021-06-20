@@ -1,0 +1,22 @@
+server:
+  port: 82
+
+eureka:
+  instance:
+    instance-id: order82
+    prefer-ip-address: true
+    lease-renewal-interval-in-seconds: 1
+    lease-expiration-duration-in-seconds: 3
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+
+spring:
+  application:
+    name: CLOUD-ORDER-SERVICE
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+

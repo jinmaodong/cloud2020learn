@@ -1,0 +1,4 @@
+com\mdjin\springcloud\OpenFeignOrder81Main.class
+com\mdjin\springcloud\service\PaymentFeignService.class
+com\mdjin\springcloud\controller\OrderFeignController.class
+com\mdjin\springcloud\cfgbeans\FeignConfig.class

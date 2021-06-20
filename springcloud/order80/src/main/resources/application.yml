@@ -1,0 +1,32 @@
+server:
+  port: 80
+spring:
+  application:
+    name: CLOUD-ORDER-SERVICE
+  devtools:
+    livereload:
+      port: 35730
+
+eureka:
+  client:
+    #false表示不向注册中心注册自己
+    register-with-eureka: true
+    #false表示自己端就是注册中心,职责是维护实例,并不需要检索服务
+    fetch-registry: true
+    service-url:
+      #设置与Eureka Server 交互的地址查询服务和注册服务都需要依赖这个地址
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+  #      defaultZone: http://eureka7001.com:7001/eureka/  #集群指向其他eureka
+  instance:
+    #注册服务实例ID
+    instance-id: order80
+    #访问路径可以显示IP地址
+    prefer-ip-address: true
+    #客户端向注册中心发送心跳时间间隔，单位为S，默认30S
+    lease-renewal-interval-in-seconds: 1
+    # Eureka服务端在收到最后一次心跳后等待时间上限，单位为秒（默认90S）超时将剔除服务
+    lease-expiration-duration-in-seconds: 2
+
+ribbon:
+  ConnectTimeout: 3000
+  ReadTimeout: 3000

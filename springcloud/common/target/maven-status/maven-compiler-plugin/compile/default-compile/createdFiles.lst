@@ -1,0 +1,3 @@
+com\mdjin\springcloud\entities\CommonResult.class
+com\mdjin\springcloud\entities\Payment.class
+com\mdjin\springcloud\constant\StatusConstant.class

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a17aacb9-335d-475c-afc1-286f6c9f3172" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tq0QokJE9dql0yakGAajIjTTUa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/provider8001/src/main/java/com/mdjin/springcloud/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3586207" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.mdjin.springcloud.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mdjin.springcloud.entities" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mdjin.springcloud.service.impl" />
+      <recent name="com.mdjin.springcloud" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mdjin.springcloud.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORK\code\springcloud\common\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="JarApplication" />
+        <option value="SpringBootApplicationConfigurationType" />
+        <option value="docker-deploy" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderMain8001">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="order80" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="order80" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoudGateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud_gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mdjin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.CoudGateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mdjin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.EurekaServer7001Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="eureka" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mdjin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.EurekaServer7002Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mdjin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixOrder80Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.HystrixOrder80Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixProvider8003Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrixprovider8003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mdjin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.HystrixProvider8003Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenFeignOrder81Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="openfeign-order81" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.OpenFeignOrder81Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order80Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.Order80Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PorviderMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.ProviderMain8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8002" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mdjin.springcloud.ProviderMain8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServer7002Main" />
+      <item itemvalue="Spring Boot.EurekaServer7001Main" />
+      <item itemvalue="Spring Boot.ProviderMain8001" />
+      <item itemvalue="Spring Boot.Order80Main" />
+      <item itemvalue="Spring Boot.OpenFeignOrder81Main" />
+      <item itemvalue="Spring Boot.HystrixOrder80Main" />
+      <item itemvalue="Spring Boot.PorviderMain8002" />
+      <item itemvalue="Spring Boot.HystrixProvider8003Main" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.CoudGateWayMain9527" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CoudGateWayMain9527" />
+        <item itemvalue="Spring Boot.HystrixProvider8003Main" />
+        <item itemvalue="Spring Boot.EurekaServer7001Main" />
+        <item itemvalue="Spring Boot.EurekaServer7002Main" />
+        <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jinma\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a17aacb9-335d-475c-afc1-286f6c9f3172" name="Default Changelist" comment="" />
+      <created>1623481298019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623481298019</updated>
+      <workItem from="1623481299395" duration="3422000" />
+      <workItem from="1623484883717" duration="7811000" />
+      <workItem from="1623548276598" duration="1695000" />
+      <workItem from="1623550122481" duration="2887000" />
+      <workItem from="1623554279667" duration="18284000" />
+      <workItem from="1623591420481" duration="14364000" />
+      <workItem from="1623726902438" duration="5000" />
+      <workItem from="1623849697830" duration="8531000" />
+      <workItem from="1623908213844" duration="1741000" />
+      <workItem from="1623943389218" duration="365000" />
+      <workItem from="1624006665150" duration="19000" />
+      <workItem from="1624111152457" duration="8382000" />
+      <workItem from="1624153573675" duration="6512000" />
+      <workItem from="1624186684409" duration="2191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="245" key="#New_Docker_Connection" timestamp="1623558271513">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="723" y="245" key="#New_Docker_Connection/0.0.1920.1050@0.0.1920.1050" timestamp="1623558271513" />
+    <state x="483" y="118" key="#PorviderMain8001" timestamp="1624157939846">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="483" y="118" key="#PorviderMain8001/0.0.1920.1050@0.0.1920.1050" timestamp="1624157939846" />
+    <state x="483" y="118" key="#PorviderMain8002" timestamp="1624157878931">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="483" y="118" key="#PorviderMain8002/0.0.1920.1050@0.0.1920.1050" timestamp="1624157878931" />
+    <state x="440" y="99" key="#Project_Structure" timestamp="1624153788949">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="364" y="99" key="#Project_Structure/0.0.1588.1050@0.0.1588.1050" timestamp="1623483650353" />
+    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1624153788949" />
+    <state x="483" y="118" key="#ProviderMain8001" timestamp="1623558148771">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="483" y="118" key="#ProviderMain8001/0.0.1920.1050@0.0.1920.1050" timestamp="1623558148771" />
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1624116023440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624116023440" />
+    <state x="552" y="183" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624158168149">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624158168149" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1624162214175">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1624162214175" />
+    <state x="765" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1623491325996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1623491325996" />
+    <state x="736" y="391" width="705" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1623488228109">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="736" y="391" width="705" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1623488228109" />
+    <state x="569" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1623639061787">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="569" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1623639061787" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1624188724661">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1624188724661" />
+    <state x="771" y="443" key="Github.CreateGistDialog" timestamp="1624188557324">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="771" y="443" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624188557324" />
+    <state x="824" y="422" key="Github.ShareDialog" timestamp="1624188697204">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="824" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1624188697204" />
+    <state width="1371" height="441" key="GridCell.Tab.0.bottom" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.0.bottom/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.0.center" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.0.center/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.0.left" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.0.left/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.0.right" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.0.right/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.1.bottom" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.1.bottom/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.1.center" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.1.center/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.1.left" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.1.left/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1371" height="441" key="GridCell.Tab.1.right" timestamp="1624162704677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1271" height="371" key="GridCell.Tab.1.right/0.0.1588.1050@0.0.1588.1050" timestamp="1623592559206" />
+    <state width="1371" height="441" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1624162704677" />
+    <state width="1293" height="311" key="GridCell.Tab.2.bottom" timestamp="1623552967143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="311" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1623552967143" />
+    <state width="1293" height="311" key="GridCell.Tab.2.center" timestamp="1623552967143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="311" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1623552967143" />
+    <state width="1293" height="311" key="GridCell.Tab.2.left" timestamp="1623552967143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="311" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1623552967143" />
+    <state width="1293" height="311" key="GridCell.Tab.2.right" timestamp="1623552967143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="311" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1623552967143" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1623487188481">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1623487188481" />
+    <state x="531" y="339" width="1039" height="610" key="Registry" timestamp="1623490513693">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="531" y="339" width="1039" height="610" key="Registry/0.0.1920.1050@0.0.1920.1050" timestamp="1623490513693" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1623551887229">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1623551887229" />
+    <state width="968" height="532" key="XDebugger.FullValuePopup" timestamp="1623552794132">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="968" height="532" key="XDebugger.FullValuePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1623552794132" />
+    <state x="888" y="306" key="chooseDestDirectoryDialog" timestamp="1623488227993">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="888" y="306" key="chooseDestDirectoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1623488227993" />
+    <state x="815" y="157" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1623487432543">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="815" y="157" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1623487432543" />
+    <state x="717" y="191" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1623908978337">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="717" y="191" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1623908978337" />
+    <state x="661" y="228" width="598" height="594" key="find.popup" timestamp="1623908759635">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="228" width="598" height="594" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1623908759635" />
+    <state x="334" y="185" key="new project wizard" timestamp="1624157115820">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="121" y="185" key="new project wizard/0.0.1372.1050@0.0.1372.1050" timestamp="1623482779123" />
+    <state x="276" y="185" key="new project wizard/0.0.1588.1050@0.0.1588.1050" timestamp="1623578141207" />
+    <state x="334" y="185" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1624157115820" />
+    <state x="739" y="645" width="672" height="678" key="search.everywhere.popup" timestamp="1624162343197">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="645" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1624006681482" />
+    <state x="739" y="645" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1624162343197" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_211/jre/lib/rt.jar!/sun/reflect/annotation/TypeNotPresentExceptionProxy.class</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

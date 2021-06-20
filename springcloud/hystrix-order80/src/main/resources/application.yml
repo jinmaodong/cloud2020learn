@@ -1,0 +1,33 @@
+server:
+  port: 80
+eureka:
+  instance:
+    instance-id: hystrixorder
+    prefer-ip-address: true
+    lease-expiration-duration-in-seconds: 3
+    lease-renewal-interval-in-seconds: 1
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
+spring:
+  application:
+    name: CLOUD-HYSTRIX-ORDER-SERVICE
+feign:
+  hystrix:
+    enabled: true
+##ribbon的超时时间
+#ribbon:
+#  ReadTimeout: 3000
+#  ConnectTimeout: 3000
+#
+#hystrix:
+#  commond:
+#    default:
+#      execution:
+#        timeout:
+#          enable: true
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 9000
